@@ -32,10 +32,16 @@ Data analyst, data scientist and research roles, especially in healthcare, publi
 
 ---
 
-### 📂 Projects (being uploaded)
+### 📂 Projects
 
 | Project | What it shows | Tools |
 |---|---|---|
+| [**Cardiovascular Disease Prediction**](https://github.com/barshasadia92-dev/nhanes-cvd-hybrid-clustering) | MRes research on 5,856 NHANES 2017–2018 adults: baseline vs K-Means hybrid classifiers with leakage-safe nested cross-validation and paired bootstrap CIs. All models reach **AUROC 0.83–0.84**; cluster features improved only the SVM | Python, scikit-learn, XGBoost |
+| [**Global Sales Dashboard**](https://github.com/barshasadia92-dev/global-sales-dashboard-powerbi) | Team Power BI dashboard of 100,000 sales orders: revenue, cost, profit, products, regions and channels. I wrote the conclusions and business recommendations and verified the KPIs in Python | Power BI, Tableau, Python |
+| [**UK Road Casualty Statistics 2023 – Dashboard Review**](https://github.com/barshasadia92-dev/road-casualty-dashboard-review) | Critical review of a road-safety dashboard (~100,000 DfT records) using Gestalt principles, editorial thinking and data storytelling, with redesign recommendations | Data visualisation |
+| **Face Mask Detection** | Transfer learning for image classification (published 2025) · *repository coming soon* | Python, deep learning |
+
+---|---|---|
 | **Cardiovascular Disease Prediction** | MRes dissertation: merged NHANES 2017–2018 tables, engineered features, and compared classifiers with a hybrid clustering + classification approach. Best model: **AUROC 83.2%** | Python, Pandas, scikit-learn |
 | **Global Sales Dashboard** | Interactive dashboard of revenue, costs, profit, products, regions and online vs offline channels | Power BI |
 | **UK Road Casualty Statistics 2023 – Dashboard Review** | Critical review of a dashboard built on ~100,000 casualty records, with recommendations for clarity and storytelling | Data visualisation |
