@@ -40,14 +40,14 @@ Data analyst, data scientist and research roles, especially in healthcare, publi
 | [**Stroke and Hypertension Prediction**](https://github.com/barshasadia92-dev/stroke-hypertension-ml) | Supervised (Logistic Regression, SVM, Gradient Boosting, MLP) and unsupervised (K-Means) learning on 5,109 patients. Found and fixed SMOTE-before-split leakage that had inflated F1 from ~0.3 to 0.98; corrected stroke ROC-AUC **0.84** | Python, scikit-learn, imbalanced-learn |
 | [**Global Sales Dashboard**](https://github.com/barshasadia92-dev/global-sales-dashboard-powerbi) | Team Power BI dashboard of 100,000 sales orders: revenue, cost, profit, products, regions and channels. I wrote the conclusions and business recommendations and verified the KPIs in Python | Power BI, Tableau, Python |
 | [**UK Road Casualty Statistics 2023 – Dashboard Review**](https://github.com/barshasadia92-dev/road-casualty-dashboard-review) | Critical review of a road-safety dashboard (~100,000 DfT records) using Gestalt principles, editorial thinking and data storytelling, with redesign recommendations | Data visualisation |
-| **Face Mask Detection** | Transfer learning for image classification (published 2025) · *repository coming soon* | Python, deep learning |
+| **Face Mask Detection** (peer-reviewed paper) | Co-authored study using MobileNetV2 transfer learning with custom classifiers for real-time mask detection; **98.3% accuracy**. Published in [IJEAST](http://www.ijeast.com), Vol. 9, Issue 11, March 2025 | Python, TensorFlow/Keras, computer vision |
 
 ---
 
 ### 📄 Publications
 
 - **Barsha, S. T. (2024).** *Machine Learning Approaches for Heart Disease Prediction: A Systematic Review and Comparative Analysis.* International Journal of Research Publications, 157. [doi:10.47119/IJRP1001571920247202](https://doi.org/10.47119/IJRP1001571920247202)
-- **Shadesh, N. H., Rahaman, A., Barsha, S. T., Tabashum, S., & Tasnim, S. (2025).** *Advanced Face Mask Detection Using Transfer Learning and Custom Classifiers.*
+- **Shadesh, N. H., Rahaman, A., Barsha, S. T., Tabashum, S., & Tasnim, S. (2025).** *Advanced Face Mask Detection Using Transfer Learning and Custom Classifiers: Enhancing Public Safety Through Computer Vision and Deep Learning.* International Journal of Engineering Applied Sciences and Technology, 9(11), 1–14. [ijeast.com](http://www.ijeast.com)
 
 ---
 
