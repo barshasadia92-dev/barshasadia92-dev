@@ -41,12 +41,6 @@ Data analyst, data scientist and research roles, especially in healthcare, publi
 | [**UK Road Casualty Statistics 2023 – Dashboard Review**](https://github.com/barshasadia92-dev/road-casualty-dashboard-review) | Critical review of a road-safety dashboard (~100,000 DfT records) using Gestalt principles, editorial thinking and data storytelling, with redesign recommendations | Data visualisation |
 | **Face Mask Detection** | Transfer learning for image classification (published 2025) · *repository coming soon* | Python, deep learning |
 
----|---|---|
-| **Cardiovascular Disease Prediction** | MRes dissertation: merged NHANES 2017–2018 tables, engineered features, and compared classifiers with a hybrid clustering + classification approach. Best model: **AUROC 83.2%** | Python, Pandas, scikit-learn |
-| **Global Sales Dashboard** | Interactive dashboard of revenue, costs, profit, products, regions and online vs offline channels | Power BI |
-| **UK Road Casualty Statistics 2023 – Dashboard Review** | Critical review of a dashboard built on ~100,000 casualty records, with recommendations for clarity and storytelling | Data visualisation |
-| **Face Mask Detection** | Transfer learning for image classification (published 2025) | Python, deep learning |
-
 ---
 
 ### 📄 Publications
