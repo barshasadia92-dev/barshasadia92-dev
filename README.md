@@ -2,30 +2,64 @@
 
 **Data Analyst & Machine Learning Researcher** based in Birmingham, UK.
 
-I recently completed an **MRes in Computing (Distinction)** at Birmingham City University, where my research used hybrid machine learning to predict cardiovascular disease from large healthcare survey data (NHANES). Before that, I spent 9 years teaching Python, databases and AI as a Lecturer and Assistant Professor in Computer Science.
+I recently completed an **MRes in Computing (Distinction)** at Birmingham City University, where my research used hybrid machine learning to predict cardiovascular disease from large healthcare survey data (NHANES). Before that, I spent **9 years** teaching Python, databases and AI as a Lecturer and Assistant Professor in Computer Science.
 
 I enjoy turning messy data into clear answers, and explaining those answers to people who aren't technical.
 
-## 🔭 What I'm looking for
-Data analyst, data scientist and research roles, especially in **healthcare, public sector and research**.
+### 🔭 What I'm looking for
 
-## 🛠️ Skills
+Data analyst, data scientist and research roles, especially in healthcare, public sector and research.
+
+---
+
+### 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
 - **Languages:** Python, SQL, C
 - **Data & ML:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 - **Visualisation & BI:** Power BI, Tableau, Excel
-- **Methods:** classification, clustering, feature engineering, model evaluation (precision, recall, F1, AUROC)
+- **Methods:** classification, clustering, hybrid models, feature engineering, missing-data treatment, model evaluation (precision, recall, F1, AUROC)
+- **Communication:** technical reports, peer-reviewed papers, presenting to non-technical audiences
 
-## 📂 Projects (being uploaded)
+---
+
+### 📂 Projects (being uploaded)
+
 | Project | What it shows | Tools |
-| --- | --- | --- |
-| Cardiovascular Disease Prediction | MRes dissertation: hybrid clustering + classification on NHANES 2017–2018 | Python, Pandas, scikit-learn |
-| Global Sales Dashboard | Interactive dashboard of revenue, profit, regions and channels | Power BI |
-| Face Mask Detection | Transfer learning for image classification (published 2025) | Python, deep learning |
+|---|---|---|
+| **Cardiovascular Disease Prediction** | MRes dissertation: merged NHANES 2017–2018 tables, engineered features, and compared classifiers with a hybrid clustering + classification approach. Best model: **AUROC 83.2%** | Python, Pandas, scikit-learn |
+| **Global Sales Dashboard** | Interactive dashboard of revenue, costs, profit, products, regions and online vs offline channels | Power BI |
+| **UK Road Casualty Statistics 2023 – Dashboard Review** | Critical review of a dashboard built on ~100,000 casualty records, with recommendations for clarity and storytelling | Data visualisation |
+| **Face Mask Detection** | Transfer learning for image classification (published 2025) | Python, deep learning |
 
-## 📄 Publications
-- **Barsha, S. T.** (2024). *Machine Learning Approaches for Heart Disease Prediction: A Systematic Review and Comparative Analysis.* International Journal of Research Publications, 157. [doi:10.47119/IJRP1001571920247202](https://doi.org/10.47119/IJRP1001571920247202)
-- Shadesh, N. H., Rahaman, A., **Barsha, S. T.**, Tabashum, S., & Tasnim, S. (2025). *Advanced Face Mask Detection Using Transfer Learning and Custom Classifiers.*
+---
 
-## 📫 Get in touch
-- [LinkedIn](https://www.linkedin.com/in/sadia-tasnim-barsha-b3a245151)
-- Email: barsha.sadia92@gmail.com
+### 📄 Publications
+
+- **Barsha, S. T. (2024).** *Machine Learning Approaches for Heart Disease Prediction: A Systematic Review and Comparative Analysis.* International Journal of Research Publications, 157. [doi:10.47119/IJRP1001571920247202](https://doi.org/10.47119/IJRP1001571920247202)
+- **Shadesh, N. H., Rahaman, A., Barsha, S. T., Tabashum, S., & Tasnim, S. (2025).** *Advanced Face Mask Detection Using Transfer Learning and Custom Classifiers.*
+
+---
+
+### 🎓 Background
+
+- **MRes in Computing**, Birmingham City University (2025–2026) · *Distinction*
+- **B.Sc. in Computer Science & Engineering**, Ahsanullah University of Science & Technology (2016) · CGPA 3.84/4.00, ranked 4th of 130
+- **Assistant Professor / Lecturer, Computer Science**, Sonargaon University, Dhaka (2016–2025): taught Python, C, DBMS, AI and Numerical Computing; supervised 10 final-year projects
+- **Lab Demonstrator, AI Fundamentals (Python)**, Birmingham City University (2026)
+
+---
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-tasnim-barsha-b3a245151)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:barsha.sadia92@gmail.com)
